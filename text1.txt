@@ -1,0 +1,9 @@
+ Volume in drive E is New Volume
+ Volume Serial Number is C06A-A549
+
+ Directory of E:\Myproject
+
+08-02-2025  17:21    <DIR>          .
+08-02-2025  17:21                 0 text1.txt
+               1 File(s)              0 bytes
+               1 Dir(s)  459,027,734,528 bytes free
